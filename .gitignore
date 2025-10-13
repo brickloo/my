@@ -1,3 +1,6 @@
 # Hugo output
 /public/
 .hugo_build.lock
+
+# Private data
+/content/private/
